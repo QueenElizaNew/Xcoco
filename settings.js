@@ -14,20 +14,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94764497078'] //ur owner number
-global.ownername = "Sandaru Nethsara" //ur owner name
-global.ytname = "YT: Sandaru Yt" //ur yt chanel name
+global.owner = ['94722535399'] //ur owner number
+global.ownername = "𝚁𝙴𝙰𝙻 𝙽𝙾𝚃𝚈" //ur owner name
+global.ytname = "YT: REAL NOTY" //ur yt chanel name
 global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94764497078" //ur number
-global.premium = ['94764497078'] //ur premium number
-global.botname = 'Xcoco' //ur bot name
+global.ownernomer = "94773614270" //ur number
+global.premium = ['94773614270'] //ur premium number
+global.botname = '𝗭𝗘𝗥𝗢 𝗧𝗪𝗢' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
 global.packname = "Sticker By Xcoco" //ur sticker watermark packname
-global.author = "Xcoco" //ur sticker watermark author
-global.wm = "XCOCO BOT INC" //ur watermark
+global.author = "𝚉𝙴𝚁𝙾 𝚃𝚆𝙾" //ur sticker watermark author
+global.wm = "𝚉𝙴𝙴𝙾 𝚃𝚆𝙾 BOT INC" //ur watermark
 
 // Other
 global.sessionName = 'session'
