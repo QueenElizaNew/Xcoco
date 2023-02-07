@@ -18,16 +18,16 @@ global.owner = ['94722535399'] //ur owner number
 global.ownername = "𝚁𝙴𝙰𝙻 𝙽𝙾𝚃𝚈" //ur owner name
 global.ytname = "YT: REAL NOTY" //ur yt chanel name
 global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.location = "Sri Lanka, Colombo, Meegoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94773614270" //ur number
-global.premium = ['94773614270'] //ur premium number
-global.botname = '𝗭𝗘𝗥𝗢 𝗧𝗪𝗢' //ur bot name
+global.ownernomer = "94722535399" //ur number
+global.premium = ['94722535399'] //ur premium number
+global.botname = 'ᏃᎬᎬϴ ͲᏔϴ ᎷᎠ' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By Xcoco" //ur sticker watermark packname
-global.author = "𝚉𝙴𝚁𝙾 𝚃𝚆𝙾" //ur sticker watermark author
-global.wm = "𝚉𝙴𝙴𝙾 𝚃𝚆𝙾 BOT INC" //ur watermark
+global.packname = "Sticker By 𝗭𝗘𝗥⃞𝗢 𝗧𝗪⃞𝗢 𝗕𝗢⃞𝗧 " //ur sticker watermark packname
+global.author = "ᏃᎬᎬϴ ͲᏔϴ ᎷᎠ" //ur sticker watermark author
+global.wm = "𝚉𝙴𝙴𝙾 𝚃𝚆𝙾 ᏴϴͲ INC" //ur watermark
 
 // Other
 global.sessionName = 'session'
